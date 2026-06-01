@@ -60,7 +60,7 @@ My research interest includes:
 - 玩游戏
 - 听音乐
 
-<span class='anchor' id='-ryjx'></span>
+<span class='anchor' id='honors-and-awards'></span>
 
 # 🏅 Honors and Awards
 ---
