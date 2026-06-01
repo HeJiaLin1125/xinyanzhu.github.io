@@ -60,7 +60,7 @@ My research interest includes:
 - 玩游戏
 - 听音乐
 
-<span class='anchor' id='-ryjx'></span>
+<span class='anchor' id='hobbies'></span>
 
 # 🏅 Honors and Awards
 ---
@@ -79,7 +79,7 @@ My research interest includes:
 - *Piano Grade 4 Certificate.
 - *Mandarin Proficiency Test Level 2-B Certificate.
 - *Red Cross Society First Aid Provider Certificate.
-   <span class='anchor' id='-wdtc'></span>
+   <span class='anchor' id='honors-and-awards'></span>
   
 # 💬 My Expertise
 
@@ -88,11 +88,11 @@ My research interest includes:
 - *Personal Traits:​ Inquisitive mindset with a habit of asking insightful questions.
 - *Language Skills:​ Possesses basic knowledge of French.
 - *Adaptability:​ Highly receptive to new things and quick learner of emerging trends.
- <span class='anchor' id='-mbjh'></span>
+ <span class='anchor' id='my-expertise'></span>
 
 # 🏭 Objectives
 - *Develop a pixel game
 - *Publish a research paper
 - *Pursue personal passions
-
+ <span class='anchor' id='objectives'></span>
   
